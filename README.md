@@ -3,7 +3,7 @@ Robotic Arm
 Component list
 
 * Arduino Uno
-* Encoder Ky-040
+* Rotary encoder Ky-040
 * Shift Register 74hc595
 * EEPROM AT24C256
 * 28byj-48 stepper motor
